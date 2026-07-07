@@ -1,0 +1,14 @@
+node_modules/
+bun.lockb
+dist/
+coverage/
+memory/
+.env
+.env.*
+*.log
+*.jpg
+*.mjpg
+*.bin
+*.apk
+*.dex
+*.so
